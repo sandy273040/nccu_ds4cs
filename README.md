@@ -7,3 +7,8 @@ This is the repository to restore the data science project applied in the field 
   2. Decision Tree + PCA or TSNE to classify MNIST
   3. Decision Treee + TSNE on Network Intrusion Data
   4. In addition to improving the accuracy, we also visualiza our result.
+  
+## H-Dynamic
+### This notebook aims to 
+  1. use API Call data of malwares to do clustering
+  2. Visualize the clustering results
